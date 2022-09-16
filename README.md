@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Projeto cocntruído no evento Nexte Level Week da Rocketseat.
+Projeto cocntruído no evento Next Level Week da Rocketseat.
 
 [🔗 Clique aqui para acessar](https://fabiiano.github.io/eSports/)
 
