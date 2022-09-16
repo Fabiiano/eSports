@@ -8,12 +8,12 @@ Projeto cocntruído no evento Nexte Level Week da Rocketseat.
 
 [🔗 Clique aqui para acessar](https://fabiiano.github.io/eSports/)
 
-## 🛠 Tecnologias 
+## 🛠 Tecnologias 🛠
 
 - HTML5
 - CSS3
 - Git e GitHub
 
-## ⭐Contato
+## ⭐Contato ⭐
 
 fabiano.almeida1007@gmail.com
